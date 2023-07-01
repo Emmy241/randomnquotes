@@ -1,0 +1,43 @@
+body {
+    background-color: #9DB2BF;
+}
+
+.card-body {
+    border-radius: 50px;
+    background-color: #0E2954;
+    color: #fff;
+    height: 500px;
+    margin: 30px;
+    text-align: center;
+}
+
+.main {
+    margin: 40px;
+    padding-top: 90px;
+
+}
+
+hr {
+    width: 50%;
+    margin: auto;
+
+}
+
+.btn {
+    background-color: rgb(191, 223, 241);
+}
+
+.btn:hover {
+    border: 3px solid rgb(81, 121, 170);
+    ;
+    background-color: rgb(191, 223, 241);
+}
+
+
+.footer-txt{
+    color: #0E2954;
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
